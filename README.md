@@ -1,2 +1,2 @@
 # demo
-<h1>Author - Kunal<h1>
+<h2>Author - Kunal<h2>
